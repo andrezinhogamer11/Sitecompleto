@@ -1,0 +1,19 @@
+{
+  "name": "sitecompleto",
+  "version": "1.0.0",
+  "description": "Projeto revisão site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Projeto",
+    "teste",
+    "aula"
+  ],
+  "author": "André Mardula Neto",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
